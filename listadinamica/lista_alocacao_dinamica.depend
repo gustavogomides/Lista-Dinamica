@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1412707091 source:/home/aluno/lista_alocacao_dinamica/main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1412707172 source:/home/aluno/lista_alocacao_dinamica/lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1412706099 /home/aluno/lista_alocacao_dinamica/lista.h
+
+1412707172 source:f:\lista_alocacao_dinamica\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1412706098 f:\lista_alocacao_dinamica\lista.h
+
+1412707090 source:f:\lista_alocacao_dinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1412710690 source:c:\users\gustavo-pc\documents\unifei\2º período\matérias\estrutura de dados 1\listadinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1412709698 c:\users\gustavo-pc\documents\unifei\2º período\matérias\estrutura de dados 1\listadinamica\lista.h
+
+1413053595 source:c:\users\gustavo-pc\documents\unifei\2º período\matérias\estrutura de dados 1\listadinamica\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
